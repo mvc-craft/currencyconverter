@@ -26,7 +26,7 @@ php artisan serve
 ```
 
 > if you are running the local server on different port then please change the ulr in index blade file accordingly.
-####/resources/views/index.blade.php
+#### /resources/views/index.blade.php
 
 ```
 <script>
@@ -36,4 +36,4 @@ php artisan serve
 
 > hit the URL in browser: http://localhost:8000
 
-###App should work based on the requirements.
+### App should work based on the requirements.
